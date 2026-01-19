@@ -1,0 +1,1 @@
+This is a Single Page Application (SPA) that allows users to search for word definitions using the Free Dictionary API. The application fetches and displays definitions, pronunciation, and synonyms without refreshing the page.
